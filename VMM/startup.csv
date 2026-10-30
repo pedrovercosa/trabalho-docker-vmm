@@ -1,0 +1,6 @@
+﻿"Backend","Config","NCPU","MemGB","Repeticao","Timestamp","Operacao","Tempo_ms"
+"vmm","4cpu-4gb","4","3.88","1","2026-10-30T03:22:34","docker_run_warm","247.3"
+"vmm","4cpu-4gb","4","3.88","2","2026-10-30T03:23:56","docker_run_warm","230.8"
+"vmm","4cpu-4gb","4","3.88","3","2026-10-30T03:27:15","docker_run_warm","231.1"
+"vmm","4cpu-4gb","4","3.88","4","2026-10-30T03:27:33","docker_run_warm","232.8"
+"vmm","4cpu-4gb","4","3.88","5","2026-10-30T03:29:47","docker_run_warm","222"
